@@ -13,6 +13,7 @@
 ### Windows
 #### Native
 - TEMPLATE [Student Name: link to guide]
+- Shuhan Qian: https://github.com/QSHANSSS/ese5190-2022
 - Chenwei Tang: https://github.com/Chenwei-Tang/ese5190-lab2/blob/main/RP2040-C-SDK-setup.md
 - Lihong Zhao: https://github.com/lihzhao14/ese5190_pico_setup_guide
 - Joyendra Roy Biswas: https://github.com/joyendra/ESE519-Lab2-intoTheVoid/blob/main/README.md
