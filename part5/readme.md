@@ -1,4 +1,4 @@
-Firstly, there is the setup of measurement devices:  
+Firstly, there is the setup of measurement devices. We set the program request for r,g,b,c data. Then we can see the signal on oscilloscope that 4 data are sending at one time.
 ![image](https://user-images.githubusercontent.com/64452307/202332123-cb6d008b-2dac-4a32-bc9f-f2b4210fb41c.png)  
 
 To verify the operation of i2c, we used the code of lab1 to control the APDS9960 sensor. Then displayed i2c traffic on a k lab oscilloscope.  
@@ -6,7 +6,10 @@ From screeshots below, we can find that i2c has a clock signal to synchoronize t
 host to server in fixed format.  
 ![微信图片_20221104235649](https://user-images.githubusercontent.com/64452307/200100259-ab1db7e8-d6d2-47fe-ba8b-42310729de3c.jpg)
   
-  ![微信图片_20221104235643](https://user-images.githubusercontent.com/64452307/200100270-4fc6b2df-9de0-4106-99ef-d885324567ce.jpg)
+  ![微信图片_20221104235643](https://user-images.githubusercontent.com/64452307/200100270-4fc6b2df-9de0-4106-99ef-d885324567ce.jpg)  
+  
+  ![image](https://user-images.githubusercontent.com/64452307/202332539-321150cf-775d-413a-bf75-ad34e749db7b.png)
+
 
   
 
