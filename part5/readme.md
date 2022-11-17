@@ -1,4 +1,4 @@
-Firstly, there is the setup of measurement devices:
+Firstly, there is the setup of measurement devices:  
 ![image](https://user-images.githubusercontent.com/64452307/202332123-cb6d008b-2dac-4a32-bc9f-f2b4210fb41c.png)  
 
 To verify the operation of i2c, we used the code of lab1 to control the APDS9960 sensor. Then displayed i2c traffic on a k lab oscilloscope.  
