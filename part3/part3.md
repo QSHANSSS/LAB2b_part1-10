@@ -3,4 +3,5 @@ and neopixel. We can enter "r" "g" and "b" to control the neopixel, and when we 
 To realize this functionality, we used a struct array to reserve the status value, and update one element in array each iteration.
 <img width="575" alt="recording" src="https://user-images.githubusercontent.com/64452307/202332740-5ef9912b-1418-436c-be1b-75205e2a74a5.png">
 <img width="302" alt="serial" src="https://user-images.githubusercontent.com/64452307/202332768-c68bba46-12b1-413b-969f-7940941ed833.png">
-[faa68513060827a0ef38ea50c59dd775](https://user-images.githubusercontent.com/64452307/202334761-8b8aa6a7-cfaf-4574-a444-02e1ac7e3a8b.gif)
+![000eb06cf32b93771e6afca70942ddbe 00_00_00-00_00_30](https://user-images.githubusercontent.com/64452307/202336225-bc5fd49b-eb76-44c6-a663-7e485c907eb2.gif)  
+
